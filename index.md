@@ -1,4 +1,4 @@
-# Bryant-nolan Wu | Welcome to my Website!
+# Bryant-nolan Wu | Welcome!
 
 Hello everyone! I'm Bryant-nolan Wu, a freshman at the California State University in Fullerton majoring in Computer Science, and this my Digital Portfolio!
 
